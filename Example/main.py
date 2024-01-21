@@ -1,4 +1,4 @@
-# GitHubMain.py
+# Main.py
 
 import csv
 
